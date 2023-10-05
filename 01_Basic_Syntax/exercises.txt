@@ -1,0 +1,12 @@
+Basic Syntax
+
+1. Print "Hello, World!" to the console.
+2. Take user input for a name and print "Hello, [name]!".
+3. Add two numbers entered by the user.
+4. Swap two numbers without using a third variable.
+5. Find the largest of three numbers.
+6. Check if a number is even or odd.
+7. Convert Celsius to Fahrenheit.
+8. Calculate the area of a rectangle.
+9. Calculate the area of a circle using "const double PI = 3.14159".
+10. Use a ternary operator to check if a number is positive, negative, or zero.
